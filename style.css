@@ -45,7 +45,6 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
-.download{
-    width: 20px;
-    height: 20px;
+.header{
+    color: chocolate;
 }
